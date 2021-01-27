@@ -12,6 +12,7 @@
              <span class="testcs">Azure web app test page</span>
 
             <span class="testcs">Revathi's edit</span>
+            <span class="testcs"> & mani's edit</span>
         </div>
     </form>
 </body>
